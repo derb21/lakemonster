@@ -1,0 +1,41 @@
+{
+  "expo": {
+    "name": "LakeMonster",
+    "slug": "lakemonster",
+    "version": "2.4.5",
+    "orientation": "portrait",
+    "facebookAppId": "2247901185524468",
+    "facebookDisplayName": "LakeMonster",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "bundleIdentifier": "tech.liveit.lakemonster",
+      "buildNumber": "2.4.5",
+      "supportsTablet": true,
+      "infoPlist": {
+        "NSLocationWhenInUseUsageDescription": "We need to know your current location to find the closest lakes to your location. Do you allow us to use location service on this device ?"
+      }
+    },
+    "android": {
+      "package": "com.lakemonsterexpo.lakemonsterexpo",
+      "versionCode": 6,
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyCrJ58Hno9msvmEvMQWs_2ludNGqH6anpQ"
+        }
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": ""
+  }
+}

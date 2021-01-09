@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "63367780327",
+    "project_id": "lakemonster-expo",
+    "storage_bucket": "lakemonster-expo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63367780327:android:a44f941027f5dcc8200f42",
+        "android_client_info": {
+          "package_name": "com.lakemonsterexpo.lakemonsterexpo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63367780327-beu8ao1tbigqi4qj9ghdt8ni8t5j8s1l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlDPEJXzOBl7JY109xe3H2_4APIwPegJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63367780327-beu8ao1tbigqi4qj9ghdt8ni8t5j8s1l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
